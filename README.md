@@ -1583,7 +1583,7 @@ const nysaFeedData = [
     id: "feed-001",
     category: "Service Providers",
     primarySupport: {
-      whatsapp: "+919876543210",
+      whatsapp: "+919669181789",
       email: "support@cleanmasterpro.com"
     },
     details: {
